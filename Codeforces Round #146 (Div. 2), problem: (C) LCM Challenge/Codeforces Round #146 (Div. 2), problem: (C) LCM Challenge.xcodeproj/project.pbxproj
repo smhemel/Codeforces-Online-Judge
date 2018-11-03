@@ -1,0 +1,253 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		059632EF1DFE39C900C0BEA5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 059632EE1DFE39C900C0BEA5 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		059632E91DFE39C900C0BEA5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		059632EB1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge"; sourceTree = BUILT_PRODUCTS_DIR; };
+		059632EE1DFE39C900C0BEA5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		059632E81DFE39C900C0BEA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		059632E21DFE39C900C0BEA5 = {
+			isa = PBXGroup;
+			children = (
+				059632ED1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */,
+				059632EC1DFE39C900C0BEA5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		059632EC1DFE39C900C0BEA5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				059632EB1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		059632ED1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */ = {
+			isa = PBXGroup;
+			children = (
+				059632EE1DFE39C900C0BEA5 /* main.cpp */,
+			);
+			path = "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		059632EA1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 059632F21DFE39C900C0BEA5 /* Build configuration list for PBXNativeTarget "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge" */;
+			buildPhases = (
+				059632E71DFE39C900C0BEA5 /* Sources */,
+				059632E81DFE39C900C0BEA5 /* Frameworks */,
+				059632E91DFE39C900C0BEA5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge";
+			productName = "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge";
+			productReference = 059632EB1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		059632E31DFE39C900C0BEA5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "S M HEMEL";
+				TargetAttributes = {
+					059632EA1DFE39C900C0BEA5 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 059632E61DFE39C900C0BEA5 /* Build configuration list for PBXProject "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 059632E21DFE39C900C0BEA5;
+			productRefGroup = 059632EC1DFE39C900C0BEA5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				059632EA1DFE39C900C0BEA5 /* Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		059632E71DFE39C900C0BEA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				059632EF1DFE39C900C0BEA5 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		059632F01DFE39C900C0BEA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		059632F11DFE39C900C0BEA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		059632F31DFE39C900C0BEA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		059632F41DFE39C900C0BEA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		059632E61DFE39C900C0BEA5 /* Build configuration list for PBXProject "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				059632F01DFE39C900C0BEA5 /* Debug */,
+				059632F11DFE39C900C0BEA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		059632F21DFE39C900C0BEA5 /* Build configuration list for PBXNativeTarget "Codeforces Round #146 (Div. 2), problem: (C) LCM Challenge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				059632F31DFE39C900C0BEA5 /* Debug */,
+				059632F41DFE39C900C0BEA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 059632E31DFE39C900C0BEA5 /* Project object */;
+}

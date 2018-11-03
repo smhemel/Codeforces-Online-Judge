@@ -1,0 +1,253 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		057DEEED1DFAE81900E12762 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 057DEEEC1DFAE81900E12762 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		057DEEE71DFAE81900E12762 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		057DEEE91DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction"; sourceTree = BUILT_PRODUCTS_DIR; };
+		057DEEEC1DFAE81900E12762 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		057DEEE61DFAE81900E12762 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		057DEEE01DFAE81900E12762 = {
+			isa = PBXGroup;
+			children = (
+				057DEEEB1DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */,
+				057DEEEA1DFAE81900E12762 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		057DEEEA1DFAE81900E12762 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				057DEEE91DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		057DEEEB1DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */ = {
+			isa = PBXGroup;
+			children = (
+				057DEEEC1DFAE81900E12762 /* main.cpp */,
+			);
+			path = "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		057DEEE81DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 057DEEF01DFAE81900E12762 /* Build configuration list for PBXNativeTarget "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction" */;
+			buildPhases = (
+				057DEEE51DFAE81900E12762 /* Sources */,
+				057DEEE61DFAE81900E12762 /* Frameworks */,
+				057DEEE71DFAE81900E12762 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction";
+			productName = "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction";
+			productReference = 057DEEE91DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		057DEEE11DFAE81900E12762 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "S M HEMEL";
+				TargetAttributes = {
+					057DEEE81DFAE81900E12762 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 057DEEE41DFAE81900E12762 /* Build configuration list for PBXProject "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 057DEEE01DFAE81900E12762;
+			productRefGroup = 057DEEEA1DFAE81900E12762 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				057DEEE81DFAE81900E12762 /* Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		057DEEE51DFAE81900E12762 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				057DEEED1DFAE81900E12762 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		057DEEEE1DFAE81900E12762 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		057DEEEF1DFAE81900E12762 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		057DEEF11DFAE81900E12762 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		057DEEF21DFAE81900E12762 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		057DEEE41DFAE81900E12762 /* Build configuration list for PBXProject "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				057DEEEE1DFAE81900E12762 /* Debug */,
+				057DEEEF1DFAE81900E12762 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		057DEEF01DFAE81900E12762 /* Build configuration list for PBXNativeTarget "Codeforces Beta Round #69 (Div. 2 Only) A. Panoramix's Prediction" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				057DEEF11DFAE81900E12762 /* Debug */,
+				057DEEF21DFAE81900E12762 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 057DEEE11DFAE81900E12762 /* Project object */;
+}

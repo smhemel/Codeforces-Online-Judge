@@ -1,0 +1,254 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		059633021DFEA99A00C0BEA5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 059633011DFEA99A00C0BEA5 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		059632FC1DFEA99A00C0BEA5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		059632FE1DFEA99A00C0BEA5 /* , contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations"; sourceTree = BUILT_PRODUCTS_DIR; };
+		059633011DFEA99A00C0BEA5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		059632FB1DFEA99A00C0BEA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		059632F51DFEA99A00C0BEA5 = {
+			isa = PBXGroup;
+			children = (
+				059633001DFEA99A00C0BEA5 /* Codeforces Round #131 (Div. 2), problem: (A) System of Equations */,
+				059632FF1DFEA99A00C0BEA5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		059632FF1DFEA99A00C0BEA5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				059632FE1DFEA99A00C0BEA5 /* , contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		059633001DFEA99A00C0BEA5 /* Codeforces Round #131 (Div. 2), problem: (A) System of Equations */ = {
+			isa = PBXGroup;
+			children = (
+				059633011DFEA99A00C0BEA5 /* main.cpp */,
+			);
+			name = "Codeforces Round #131 (Div. 2), problem: (A) System of Equations";
+			path = ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		059632FD1DFEA99A00C0BEA5 /* , contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 059633051DFEA99A00C0BEA5 /* Build configuration list for PBXNativeTarget ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations" */;
+			buildPhases = (
+				059632FA1DFEA99A00C0BEA5 /* Sources */,
+				059632FB1DFEA99A00C0BEA5 /* Frameworks */,
+				059632FC1DFEA99A00C0BEA5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations";
+			productName = ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations";
+			productReference = 059632FE1DFEA99A00C0BEA5 /* , contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		059632F61DFEA99A00C0BEA5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "S M HEMEL";
+				TargetAttributes = {
+					059632FD1DFEA99A00C0BEA5 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 059632F91DFEA99A00C0BEA5 /* Build configuration list for PBXProject ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 059632F51DFEA99A00C0BEA5;
+			productRefGroup = 059632FF1DFEA99A00C0BEA5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				059632FD1DFEA99A00C0BEA5 /* , contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		059632FA1DFEA99A00C0BEA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				059633021DFEA99A00C0BEA5 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		059633031DFEA99A00C0BEA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		059633041DFEA99A00C0BEA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		059633061DFEA99A00C0BEA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		059633071DFEA99A00C0BEA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		059632F91DFEA99A00C0BEA5 /* Build configuration list for PBXProject ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				059633031DFEA99A00C0BEA5 /* Debug */,
+				059633041DFEA99A00C0BEA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		059633051DFEA99A00C0BEA5 /* Build configuration list for PBXNativeTarget ", contest: Codeforces Round #131 (Div. 2), problem: (A) System of Equations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				059633061DFEA99A00C0BEA5 /* Debug */,
+				059633071DFEA99A00C0BEA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 059632F61DFEA99A00C0BEA5 /* Project object */;
+}

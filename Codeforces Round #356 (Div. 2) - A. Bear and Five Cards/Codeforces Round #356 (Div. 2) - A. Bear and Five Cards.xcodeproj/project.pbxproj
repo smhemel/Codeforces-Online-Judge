@@ -1,0 +1,256 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		059A5B1F1E8407EA009B5174 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 059A5B1E1E8407EA009B5174 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		059A5B191E8407EA009B5174 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		059A5B1B1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards"; sourceTree = BUILT_PRODUCTS_DIR; };
+		059A5B1E1E8407EA009B5174 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		059A5B181E8407EA009B5174 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		059A5B121E8407EA009B5174 = {
+			isa = PBXGroup;
+			children = (
+				059A5B1D1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */,
+				059A5B1C1E8407EA009B5174 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		059A5B1C1E8407EA009B5174 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				059A5B1B1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		059A5B1D1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */ = {
+			isa = PBXGroup;
+			children = (
+				059A5B1E1E8407EA009B5174 /* main.cpp */,
+			);
+			path = "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		059A5B1A1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 059A5B221E8407EA009B5174 /* Build configuration list for PBXNativeTarget "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards" */;
+			buildPhases = (
+				059A5B171E8407EA009B5174 /* Sources */,
+				059A5B181E8407EA009B5174 /* Frameworks */,
+				059A5B191E8407EA009B5174 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards";
+			productName = "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards";
+			productReference = 059A5B1B1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		059A5B131E8407EA009B5174 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Eastern University";
+				TargetAttributes = {
+					059A5B1A1E8407EA009B5174 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 9BS6UYQ9N9;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 059A5B161E8407EA009B5174 /* Build configuration list for PBXProject "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 059A5B121E8407EA009B5174;
+			productRefGroup = 059A5B1C1E8407EA009B5174 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				059A5B1A1E8407EA009B5174 /* Codeforces Round #356 (Div. 2) - A. Bear and Five Cards */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		059A5B171E8407EA009B5174 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				059A5B1F1E8407EA009B5174 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		059A5B201E8407EA009B5174 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		059A5B211E8407EA009B5174 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		059A5B231E8407EA009B5174 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9BS6UYQ9N9;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		059A5B241E8407EA009B5174 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 9BS6UYQ9N9;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		059A5B161E8407EA009B5174 /* Build configuration list for PBXProject "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				059A5B201E8407EA009B5174 /* Debug */,
+				059A5B211E8407EA009B5174 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		059A5B221E8407EA009B5174 /* Build configuration list for PBXNativeTarget "Codeforces Round #356 (Div. 2) - A. Bear and Five Cards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				059A5B231E8407EA009B5174 /* Debug */,
+				059A5B241E8407EA009B5174 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 059A5B131E8407EA009B5174 /* Project object */;
+}
