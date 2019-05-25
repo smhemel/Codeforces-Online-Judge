@@ -2,7 +2,7 @@
 using namespace std;
 string s;
 string vowel = "aeiou";
-int k,n;
+int k,n,m;
 int main() {
     
     cin >> k;
@@ -17,6 +17,6 @@ int main() {
         int c = i % n;
         s += vowel[(r + c) % 5];
     }
-    cout << res << endl;
+    cout << s << endl;
     return 0;
 }
